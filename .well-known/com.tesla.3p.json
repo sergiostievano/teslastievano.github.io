@@ -1,0 +1,7 @@
+{
+  "schema_version": "1.0",
+  "name": "KWHtrackerSS",
+  "description": "Statistiche di ricarica con dettaglio giornaliero",
+  "vendor_domain": "sergiostievano.github.io",
+  "public_key": "-----BEGIN PUBLIC KEY-----MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEogx+zaNnCSwqDJilVvKCktSZSz0K6m1UUdQmE6BusD9Ybwoiv2B0qEJGWaYmBCfNry/Fc8MUA8inrp2gzXhaSw==-----END PUBLIC KEY-----"
+}
